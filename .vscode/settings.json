@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
+        "autoincrement",
         "commentid",
+        "errorcode",
+        "exection",
+        "onupgradedneeded",
         "subcomments",
         "virtuals"
     ]
